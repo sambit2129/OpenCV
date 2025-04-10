@@ -29,7 +29,7 @@ Tork is an innovative solution designed to seamlessly integrate large studio set
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/tork.git
+   git clone https://github.com/sambit2129/tork.git
    cd tork
    ```
 
